@@ -1,0 +1,8 @@
+
+{
+  "name": "KiranaMitra AI",
+  "description": "A simple, visual, AI-powered assistant for small kirana shop owners to track stock and get daily business advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
